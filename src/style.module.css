@@ -1,0 +1,18 @@
+.output {
+    padding: 20px 0;
+    text-align: center;
+    font-size: 30px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+select {
+    font-size: 20px;
+}
